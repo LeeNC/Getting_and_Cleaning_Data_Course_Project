@@ -12,15 +12,17 @@ Steps
 
 2. Unzip the downloaded file. You should have this directory structure
 <path to unzip folder>/getdata_projectfiles_UCI HAR Dataset
-              |
-              |____UCI HAR Dataset
-                         |
-                         |___test
-                         |___train
-                         |___activity_labels.txt
-                         |___features.txt
-                         |___features_info.txt
-                         |___README.txt
+
+|
+|____UCI HAR Dataset
+
+	|
+	|___test
+	|___train
+	|___activity_labels.txt
+	|___features.txt
+	|___features_info.txt
+	|___README.txt
 
 3. Check out the run_analysis.R. This R script contains only 1 function, runAnalysis. Place it under the "UCI HAR Dataset" folder
 
