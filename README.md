@@ -12,10 +12,8 @@ Steps
 
 2. Unzip the downloaded file. You should have this directory structure
 <path to unzip folder>/getdata_projectfiles_UCI HAR Dataset
-
 |
 |____UCI HAR Dataset
-
 	|
 	|___test
 	|___train
