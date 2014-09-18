@@ -11,8 +11,7 @@ Steps
 1. Download the file https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 2. Unzip the downloaded file. You should have this directory structure
-<path to unzip folder>/getdata_projectfiles_UCI HAR Dataset
-
+getdata_projectfiles_UCI HAR Dataset
 |
 |--UCI HAR Dataset
 	|
